@@ -1,0 +1,91 @@
+@import "null.css";
+
+p {
+	color: red;
+}
+p {
+	color: black;
+}
+
+span {
+	color: green;
+}
+div {
+	color: darkblue;
+}
+.title {
+	color: brown;
+}
+
+.title {
+	color: cadetblue;
+}
+
+.main-title {
+	color: crimson;
+}
+
+.second-title {
+	color: cyan;
+}
+
+#golf1 {
+	color: darkorange;
+}
+#golf2 {
+	color: darkslategray;
+}
+#golf3 {
+	color: forestgreen;
+}
+#golf4 {
+	color: fuchsia;
+}
+#golf5 {
+	color: indigo;
+}
+#golf6 {
+	color: lawngreen;
+}
+#golf7 {
+	color: mediumblue;
+}
+
+h1 {
+	color: darkcyan;
+}
+.about {
+	color: darkgreen;
+}
+#title1 {
+	color: darkmagenta;
+}
+
+div.title {
+	color: darkslateblue;
+}
+.title {
+	color: red;
+}
+
+.title.second-title {
+	color: darkturquoise;
+}
+
+span {
+	color: red;
+}
+
+p span {
+	color: dodgerblue;
+}
+
+[title="mainlist"] {
+	color: cyan;
+}
+
+.title,
+.main-title,
+.list {
+	color: red;
+}
